@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "homepage": "https://f4r1d11.github.io/Clicky",
   "dependencies": {
     "express": "^4.17.1"
   },
